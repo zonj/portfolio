@@ -27,4 +27,4 @@ I'm a Licensed Mechanical Engineer who transitioned into web development after c
 
 ---
 
-Built by [jmamano] · Shopify Developer · Philippines
+Built by jmamano · Shopify Developer · Philippines
